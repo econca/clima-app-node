@@ -9,7 +9,7 @@ const getClima = async(lat, lng) => {
         "params": {
             "lat": lat,
             "lon": lng,
-            "appid": "17d3803118ab0dc7ca4396cb02b90561",
+            "appid": "TU APIKEY",
             "units": "metric"
         }
     });
