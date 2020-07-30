@@ -14,7 +14,7 @@ const getLatitudLongitud = async(ip) => {
         "headers": {},
         "params": {
             "ipAddress": ip,
-            "apiKey": "at_NtOcewZv0zDzNKL9GITmu0EjFncwO"
+            "apiKey": "TU APIKEY"
         }
     })
 
